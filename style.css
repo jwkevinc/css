@@ -1,7 +1,8 @@
 .param {
-  display: block;
-  padding: 5px;
-  backgorund: #ccc;
+  font-family: Times;
+  padding: 4px;
+  backgorund: #fafcfc;
   color: #bc4570;
-  border: 1px solid black;
+  border: 1px solid #ccc;
+  border-radius: 5px;
 }
