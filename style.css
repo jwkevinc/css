@@ -1,9 +1,10 @@
 .param {
-  font-family: Times;
+  font-family: arial;
   padding: 0.3em;
   backgorund: #fafcfc;
   color: #bc4570;
   border: 1px solid #ccc;
   border-radius: 0.4em;
   margin-right: 0.4em;
+  margin-left: 0.2em;
 }
